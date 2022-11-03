@@ -1,0 +1,13 @@
+{
+  "name": "react-gv",
+  "version": "0.2.0",
+  "description": "react-gv",
+  "scripts": {},
+  "repository": {
+    "type": "git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+  }
+}

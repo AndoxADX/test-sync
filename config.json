@@ -1,0 +1,12 @@
+{
+    "ConnectionStrings": {
+      "Development": "server=localhost;port=3308;userid=root;password=;database=test_db;"
+    },
+    "Migrations":{
+      "Development": "Todo.Api"
+    },
+    "Origins": {
+      "Development": ["http://localhost:8000"]
+    }
+  
+  }
